@@ -1,0 +1,10 @@
+
+# IntelliJ project settings
+.idea
+# configuration files
+configs/
+# result files
+results/
+# Java compiled filed
+target/
+
